@@ -29,7 +29,6 @@
 <body class="cf">
   <header class="cf">
       <div>
-      MIERDA!!
-          <img src="img/greenphoto-logo.jpg" alt="Greenphoto Logo"/>
+          <img class="logo" src="img/greenphoto-logo.jpg" alt="Greenphoto Logo"/>
       </div>
   </header>
